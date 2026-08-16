@@ -1,0 +1,6 @@
+01-overview.png:
+  en: "Play Minesweeper directly on a Zabbix dashboard with a clear board, timer and difficulty controls."
+  cs: "Hrajte Hledání min přímo na dashboardu Zabbixu s přehledným polem, časomírou a volbou obtížnosti."
+widget.png:
+  en: "The complete mineMAX game runs inside a standard Zabbix dashboard widget."
+  cs: "Kompletní hra mineMAX běží uvnitř standardního widgetu dashboardu Zabbixu."
